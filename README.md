@@ -1,6 +1,6 @@
-UrlExtractor
+URL Extractor
 ========
-Extracts urls from the sites you want. 
+Extracts urls from a website  
 ```
 mvn clean install 
 cd target
